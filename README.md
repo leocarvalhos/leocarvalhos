@@ -1,4 +1,4 @@
-  ### Oi, Eu sou o Léo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  ### Oi, eu sou o Léo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
   ### Sobre mim
 <div style="display: inline_block"  >
