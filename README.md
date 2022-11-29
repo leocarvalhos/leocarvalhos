@@ -4,7 +4,7 @@
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Sou Desenvolvedor FullStack. </p>
 <p> - 👨‍🎓 Estudante de Engenharia de Software. </p>
-<p> - 🎯 Interesses: Node, TypeScript, C#, Flutter, React, Next, Nest, Jext,  Docker, AWS . </p>
+<p> - 🎯 Interesses: Node, TypeScript, C#, Flutter, React, Next, TypeORM, Sass,  Docker, AWS . </p>
 
 </div>
 
