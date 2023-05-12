@@ -16,7 +16,6 @@
 - 📚 I currently work as a freelancer together with a designer, developing sales pages, capture pages and web sites.
 - 💭 I'm addicted to  💻, 🏋️‍♂️, ⚽ and 🎼.
 - 💭 I love playing 🎮, learning new technologies 🧠 and play with my :dog: .
-- 💭 I am a fan of Linux🐧 and love the concept of open source!
 - ⚡ I love 70's rock and roll style 🎸.
 - ⚡ My favorite phrase are:
 
